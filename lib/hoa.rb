@@ -15,7 +15,7 @@ def add_character(show, name)
     third_earthers: {
       name: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],}
     jetsons: {
-      nam: ["George", "Jane", "Judy", "Elroy"]}
+      name: ["George", "Jane", "Judy", "Elroy"]}
   }
 
 end
