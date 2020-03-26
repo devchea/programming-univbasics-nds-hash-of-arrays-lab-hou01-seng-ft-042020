@@ -13,9 +13,11 @@ def add_character(show, name)
       name:["Alvin", "Simon", "Theodore"]
       }
     third_earthers: {
-      name: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],}
+      name: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
+      }
     jetsons: {
-      name: ["George", "Jane", "Judy", "Elroy"]}
+      name: ["George", "Jane", "Judy", "Elroy"]
+      }
   }
 
 end
