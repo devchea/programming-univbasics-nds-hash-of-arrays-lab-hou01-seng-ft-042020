@@ -11,7 +11,7 @@ def add_character(show, name)
   show = {
     chipmunks [
       name:["Alvin", "Simon", "Theodore"]
-      
+    ]
     third_earthers: {
       name: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"]
       }
