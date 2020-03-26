@@ -9,9 +9,13 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   show = {
-    chipmunks: ["Alvin", "Simon", "Theodore"],
-    third_earthers: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
-    jetsons: ["George", "Jane", "Judy", "Elroy"]
+    chipmunks: {
+      name:["Alvin", "Simon", "Theodore"]
+      }
+    third_earthers: {
+      name: ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],}
+    jetsons: {
+      nam: ["George", "Jane", "Judy", "Elroy"]}
   }
 
 end
